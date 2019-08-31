@@ -1,0 +1,68 @@
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csprojAssemblyReference.cache
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csproj.CoreCompileInputs.cache
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.dll.config
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.MOD.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.MOD.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.xml
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csproj.CopyComplete
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.dll.config
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.MOD.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.MOD.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.xml
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csprojAssemblyReference.cache
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csproj.CoreCompileInputs.cache
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csproj.CopyComplete
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.MOD.dll.config
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.dll.config
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.pdb
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.MOD.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.MOD.pdb
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.MOD.dll.config
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.xml
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csprojAssemblyReference.cache
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csproj.CoreCompileInputs.cache
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csproj.CopyComplete
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.pdb
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.Migrations.InitialCreate.resources
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csproj.GenerateResource.cache
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.Migrations.addteste.resources
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.Migrations.AddNumeroCelular.resources
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.dll.config
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.Tarefas.EF.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.MOD.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.MOD.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\Impacta.MOD.dll.config
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.xml
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csprojAssemblyReference.cache
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.Migrations.InitialCreate.resources
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.Migrations.addteste.resources
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.Migrations.AddNumeroCelular.resources
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csproj.GenerateResource.cache
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csproj.CoreCompileInputs.cache
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.csproj.CopyComplete
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.EF\obj\Debug\Impacta.Tarefas.EF.Migrations.Teste.resources

@@ -1,0 +1,57 @@
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.Business.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.Business.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.csprojAssemblyReference.cache
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.csproj.CoreCompileInputs.cache
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.Business.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.Business.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.MOD.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.DAL.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.EF.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\EntityFramework.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.MOD.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.DAL.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.EF.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.EF.dll.config
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\EntityFramework.xml
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.csprojAssemblyReference.cache
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.csproj.CoreCompileInputs.cache
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.csproj.CopyComplete
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.MOD.dll.config
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.Business.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.Business.pdb
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.MOD.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.DAL.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.EF.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\EntityFramework.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.MOD.pdb
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.MOD.dll.config
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.DAL.pdb
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.EF.pdb
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.EF.dll.config
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\EntityFramework.xml
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.csprojAssemblyReference.cache
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.csproj.CoreCompileInputs.cache
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.csproj.CopyComplete
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.Business.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.Business.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.MOD.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.DAL.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.EF.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\EntityFramework.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.MOD.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.MOD.dll.config
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.DAL.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.EF.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\Impacta.Tarefas.EF.dll.config
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\bin\Debug\EntityFramework.xml
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.csproj.CoreCompileInputs.cache
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.csproj.CopyComplete
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.Business\obj\Debug\Impacta.Tarefas.Business.csprojAssemblyReference.cache

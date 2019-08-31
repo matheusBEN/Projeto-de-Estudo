@@ -1,0 +1,47 @@
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.MOD.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.Tarefas.DAL.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.Tarefas.EF.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\EntityFramework.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.MOD.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.Tarefas.DAL.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.Tarefas.EF.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.Tarefas.EF.dll.config
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\bin\Debug\EntityFramework.xml
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.MOD.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.Tarefas.DAL.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.Tarefas.EF.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\EntityFramework.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.MOD.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.MOD.dll.config
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.Tarefas.DAL.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.Tarefas.EF.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Impacta.Tarefas.EF.dll.config
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\bin\Debug\EntityFramework.xml
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

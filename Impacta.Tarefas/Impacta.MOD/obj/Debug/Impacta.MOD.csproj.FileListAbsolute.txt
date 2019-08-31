@@ -1,0 +1,46 @@
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.pdb
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.dll
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CoreCompileInputs.cache
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csprojAssemblyReference.cache
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CoreCompileInputs.cache
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll.config
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.SqlServer.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.xml
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.SqlServer.xml
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CopyComplete
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll.config
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.pdb
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.SqlServer.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.xml
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.SqlServer.xml
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csprojAssemblyReference.cache
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CoreCompileInputs.cache
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CopyComplete
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll.config
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\bin\Debug\Impacta.MOD.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.SqlServer.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.xml
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\bin\Debug\EntityFramework.SqlServer.xml
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csprojAssemblyReference.cache
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CoreCompileInputs.cache
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.csproj.CopyComplete
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.MOD\obj\Debug\Impacta.MOD.pdb

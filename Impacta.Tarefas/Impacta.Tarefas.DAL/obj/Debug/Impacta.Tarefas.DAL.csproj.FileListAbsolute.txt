@@ -1,0 +1,53 @@
+C:\MARCIO\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.dll
+C:\MARCIO\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.pdb
+C:\MARCIO\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csprojAssemblyReference.cache
+C:\MARCIO\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csproj.CoreCompileInputs.cache
+C:\MARCIO\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.dll
+C:\MARCIO\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.pdb
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.dll
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.pdb
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.dll
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.pdb
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.dll
+C:\Users\Familia\Documents\Impacta Treinamentos\AspNet MVC aula 7\Aula 7\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.pdb
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csprojAssemblyReference.cache
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csproj.CoreCompileInputs.cache
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csproj.CopyComplete
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.dll
+C:\MARCIO\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csproj.CoreCompileInputs.cache
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csproj.CopyComplete
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.dll
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.pdb
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.dll.config
+C:\WANDERLEY\Aula 8 27_Julho\Aula 8 27_Julho\_SABADO\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csprojAssemblyReference.cache
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.pdb
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.pdb
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.dll.config
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csprojAssemblyReference.cache
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csproj.CoreCompileInputs.cache
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csproj.CopyComplete
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.dll
+C:\matheus\Estudo .Net\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.Tarefas.DAL.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.pdb
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.DAL\bin\Debug\Impacta.MOD.dll.config
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csprojAssemblyReference.cache
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csproj.CoreCompileInputs.cache
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.csproj.CopyComplete
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.dll
+C:\matheus\Estudo .Net\Impacta.WebApi\Impacta.Tarefas\Impacta.Tarefas.DAL\obj\Debug\Impacta.Tarefas.DAL.pdb
